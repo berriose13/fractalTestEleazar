@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fractal.orders</groupId>
-	<artifactId>CRUDFractal</artifactId>
+	<artifactId>FractalCRUD</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CRUDFractal</name>
-	<description>CRUD for order management</description>
+	<name>FractalCRUD</name>
+	<description>Management CRUD</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
